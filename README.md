@@ -34,5 +34,7 @@ Koin is used for dependency injection.
 
 Picasso is used for image loading.
 
+Room is used for offile storage.
 
-A sample app consist of 1 screen: List of card same as sadi dot com.
+
+A sample app consist of 1 screen: List of card same as sadi dot com. Each card having 2 button Accept & Decline - If clicked on anyone save it's state on local and show a message Member accepted/ declined. 
